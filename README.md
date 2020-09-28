@@ -23,13 +23,13 @@ Making *Unordered* list is easy.
 
 ## Section 4
 
-You can jump to [GitHub](html://github.com)easily.
+You can jump to [ GitHub ](https://github.com)easily.
 
 ## Section 5
 
-This is also easy.
+Table is also easy.
 
-|Team   | win | LOse | Draw |
+|Team   | win | Lose | Draw |
 |-------|-----|------|------|
 |Hawks  |   46|    34|     4|
 |Eagles |   46|    36|     2|
